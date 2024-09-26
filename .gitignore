@@ -1,0 +1,5 @@
+**/[Oo]bj/*
+**/[Bb]in/*
+.idea/*
+*.user
+.DS_Store
